@@ -16,6 +16,7 @@ const letsSortTheRainbow = (items, order) => {
   // reducer is O(k)
   return order.reduce((accumulator, item) => {
     if (itemsHash[item]) {
+      //concat is O(c)
       return accumulator.concat(itemsHash[item]);
     }
     return accumulator;
