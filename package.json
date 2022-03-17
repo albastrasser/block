@@ -1,0 +1,23 @@
+{
+  "name": "block",
+  "version": "1.0.0",
+  "description": "This was fun to figure out. Make sure you have node installed. If you don't then [you can install it here.](https://nodejs.org/en/)",
+  "main": "colors.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albastrasser/block.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albastrasser/block/issues"
+  },
+  "homepage": "https://github.com/albastrasser/block#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
