@@ -7,4 +7,4 @@ Run `npm i`
 
 In the terminal type `npm test` and it will run the test cases.
 
-The O(n) is O(n + k) where n is the length of the color and k is the length of the items.
+The O(n) is O(n + k) where n is the length of the color array and k is the length of the order array.
